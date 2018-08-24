@@ -2,10 +2,10 @@
 ### With M. Phan
 
 ## GitHub Links
--[Syllabus] (https://phanmad000.github.io/First-Tests/Syllabus)
+* [Syllabus] (https://phanmad000.github.io/First-Tests/Syllabus)
 
--[Course Description] (https://phanmad000.github.io/First-Tests/Course-Description)
+* [Course Description] (https://phanmad000.github.io/First-Tests/Course-Description)
 
 
 
-This took forever...
+# This took forever...
