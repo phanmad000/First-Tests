@@ -6,7 +6,7 @@
 
 [Course Description](https://phanmad000.github.io/First-Tests/Course-Description)
 
-[Class Notes](http://phanmad000.github.io/ClassNotes.md/)
+[Class Notes](https://github.com/phanmad000/ClassNotes.md.git)
 
 
 # This took FOOOOOOOOORRRRRRRRRRRRREEEEEEEEEEEEEEEEVVVVVVVVVVVVVVVVVEEEEEEEEEEEEEEERRRRRRRRRRRRRRRRRR...
