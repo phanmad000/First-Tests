@@ -3,12 +3,12 @@
 
 ## GitHub Links
 * [Syllabus](https://phanmad000.github.io/First-Tests/Syllabus) 
-** A lovely summary of what we plan to do during the year for IB Comp Sci
+  * The requirements IB Comp Sci has for us
 
 * [Course Description](https://phanmad000.github.io/First-Tests/Course-Description)
-** A 
+  * A lovely summary of the plans for the school year
 
 * [Class Notes](https://phanmad000.github.io/ClassNotes_md/)
-
+  * Notes over people and other information from the class
 
 # This took FOOOOOOOOORRRRRRRRRRRRREEEEEEEEEEEEEEEEVVVVVVVVVVVVVVVVVEEEEEEEEEEEEEEERRRRRRRRRRRRRRRRRR...
